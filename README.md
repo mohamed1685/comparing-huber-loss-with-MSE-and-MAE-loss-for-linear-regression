@@ -92,5 +92,5 @@ These findings are directly applicable to regression problems in computer vision
 
 Conclusion
 
-This project demonstrates the practical differences between MSE, MAE, and Huber loss, emphasizing how the choice of loss function affects both model convergence and robustness to outliers. By implementing the experiments and analyzing the results, I have strengthened my ability to reason about model behavior—a skill directly relevant for computer vision research.
+This project demonstrates the practical differences between MSE, MAE, and Huber loss, emphasizing how the choice of loss function affects both model convergence and robustness to outliers.
 
