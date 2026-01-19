@@ -27,13 +27,11 @@ Model: Simple linear regression (implemented with PyTorch)
 
 Loss functions tested:
 
-MSE Loss
+- MSE Loss
+- MAE Loss
+- Huber Loss 
 
-MAE Loss
-
-Huber Loss 
-
-Training setup:
+### Training setup:
 
 Optimizer: Adam
 
